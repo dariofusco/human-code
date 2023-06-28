@@ -1,0 +1,60 @@
+
+7 - Scansionare un documento su più fogli fronte-retro
+
+La pratica perduta
+
+Finalmente sono riuscito a ritrovare quella pratica che sembrava essere svanita nel nulla! Che poi,
+possibile che nel 2021 ci siano ancora così tanti fogli di carta in giro per l’ufficio?! Ora ci penso io: 
+una bella scansione e l’archiviamo in formato digitale, così la prossima volta so già dove andare a cercarla!
+L’unica pecca è che lo scanner non ha il fronte-retro automatico e mi tocca farlo a mano. 
+Va beh, poco male, almeno sono pochi fogli!
+
+
+
+
+1 - Aprire raccoglitore per cercare la pratica
+
+2 - Sfogliare il raccoglitore
+  - SE la pratica è quella che sto cercando
+  - ALLORA prendi pratica
+  - OPPURE continua a cercare
+
+3 - Controllare se lo scanner è collegato
+  - SE è collegato 
+  - ALLORA accendi
+   - ALTRIMENTI collega lo scanner la computer
+
+4 - Verifica se sono installati i driver
+  - SE lo scanner è installato correttamente
+  - ALLORA apro il coperchio dello scanner
+   - ALTRIMENTI installa i driver
+
+5 - Controlla se lo scanner è vuoto
+  - SE lo scanner è vuoto 
+  - ALLORA posiziona foglio da scansionare
+   - ALTRIMENTI rimuovi il documento
+
+6 - Posiziona foglio da scasionare
+  - SE il documento è allineato 
+  - ALLORA chiudi il coperchio dello scanner
+  - SE il coperchio è chiuso ALLORA
+
+7 - Procedi con la configurazione dello scanner
+  - SE lo scanner è configurato
+  - ALLORA avvia la scansione premendo il tasto "scansiona"
+
+8 - Selezionare il formato della scansione
+  - SE la scansione è terminata 
+  - ALLORA controlla anteprima
+   - SE l'anteprima è buona 
+   - ALLORA salva con nome nella cartella "Documenti"
+    - ALTRIMENTI ripeti scansione 
+    - OPPURE correggi la scansione
+  - SE la scansione è salvata
+  - ALLORA rimuovi il documento dallo scanner
+
+9 - Gira il foglio
+  - SE la scansione è terminata ripeti dal punto 6
+
+
+ 
